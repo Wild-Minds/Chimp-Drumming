@@ -1,0 +1,115 @@
+Date,File Name,Individual ,Interbeat 1,Interbeat 2,Interbeat 3,Interbeat 4,Interbeat 5,Interbeat 6,Interbeat 7,Interbeat 8,Interbeat 9,Interbeat 10,Interbeat 11,Interbeat 12,Interbeat 13,Context		
+09/03/2017,BudongoAS WS 2017-03-09 Clip - 1 09	36	10 MAC.wav,MAC,0.104873,,,,,,,,,,,,,Traveling
+27/04/2017,BudongoAS WS 2017-04-27 Clip - 3 13	26	06 TRS.wav,TRS,0.087762,0.109038,0.194141,0.087762,0.242011,0.771243,,,,,,,,Traveling
+27/04/2017,BudongoAS WS 2017-04-27 Clip - 11 15	55	22 TRS (FID).wav,TRS,0.224404,0.132825,0.172673,0.10294,0.079695,0.371911,,,,,,,,Traveling
+12/06/2019,Budongo MH 2019-06-12 Clip 4 ILA PH-DR db GT to GR,ILA,0.089311,,,,,,,,,,,,,Resting		
+15/06/2019,Budongo VE 2019-06-15 Clip 93 in response to PH ILA PH-DR 2 double beats and TRS joined GT.wav,ILA,0.05313,0.786777,0.073054,,,,,,,,,,,Traveling		
+15/06/2019,Budongo VE 2019-06-15 Clip 66 ALF PH-DR double beat GT.wav,ALF,0.071214,,,,,,,,,,,,,Traveling		
+15/06/2019,Budongo VE 2019-06-15 Clip 105 ALF PH-DR GT.wav,ALF,0.082468,,,,,,,,,,,,,Traveling		
+15/06/2019,Budongo VE 2019-06-15 Clip 116 ALF PH-DR GT.wav,ALF,0.078503,,,,,,,,,,,,,Traveling		
+20/06/2019,Budongo VE 2019-06-20 Clip 1 BEN and DAUDI PH-DRs (3 beats? and 2 beats?) and lots of calls,BEN,0.097959,0.345687,0.305158,,,,,,,,,,,Traveling		
+20/06/2019,Budongo VE 2019-06-20 Clip 2 BEN PH-DR 3 beats and UNK (DAU?),BEN,0.09566,0.332064,,,,,,,,,,,,Traveling		
+23/06/2019,2019-06-23 Clip 3 MAC PH-DR 3 beats+ 3 single beats and others PH-re CMI tree.wav,MAC,0.074714,0.295537,0.351987,0.320441,,,,,,,,,,Resting		
+23/06/2019,2019-06-23 Clip 36 DAU PH-DR 2+2 (GT) tree CYA.wav,DAU,0.075441,0.419072,0.072269,,,,,,,,,,,Traveling		
+23/06/2019,2019-06-23 Clip 25 MAC PH-DR (GR to GR).wav,MAC,0.104104,,,,,,,,,,,,,Resting		
+26/06/2019,2019-06-26 Clip 2 ALF PH-DR db (GT) ,ALF,0.087997,,,,,,,,,,,,,Traveling		
+26/06/2019,2019-06-26 Clip 5 Multiple PH-DRs but not clear and 1 clear ALF PH-DR db,ALF,0.079695,,,,,,,,,,,,,Traveling		
+03/07/2019,Budongo VE 2019-07-03 Clip 7 DAU PH-DR CYA dbh 70.wav,DAU,0.042131,0.282254,,,,,,,,,,,,Traveling		
+03/07/2019,Budongo VE 2019-07-03 Clip 2 ALF PH-DR db (GT).wav,ALF,0.07417,,,,,,,,,,,,,Traveling		
+08/07/2019,Budongo VE 2019-07-08 Clip 16 ILA PH-DR CYA 150dbh GT .wav,ILA,0.067715,0.335543,0.057608,,,,,,,,,,,Traveling		
+08/07/2019,Budongo VE 2019-07-08 Clip 8 FID PH-DR CMI tree 80 diam.wav,FID,0.204,,,,,,,,,,,,,Resting		
+11/07/2019,Budongo VE 2019-07-11 Clip 11 DAU PH-DR (GT) .wav,DAU,0.076876,,,,,,,,,,,,,Traveling		
+16/07/2019,Budongo VE 2019-07-16 Clip 17 TRS PH-DR (Hands) and SAM PH-DR (Feet) same tree CMI 60 dbh.wav,TRS,0.140699,0.126184,0.116222,0.251538,0.21169,,,,,,,,,Traveling		
+16/07/2019,Budongo VE 2019-07-16 Clip 18 TRS PH-DR complex and SAM PH-DR 2+1beats (GT or Display?).wav,TRS,0.078035,0.099204,0.193427,,,,,,,,,,,Traveling		
+16/07/2019,Budongo VE 2019-07-16 Clip 1 DAU? PH-DR 50m (not MAC) .wav,DAU,0.132825,,,,,,,,,,,,,Traveling		
+16/07/2019,Budongo VE 2019-07-16 Clip 17 TRS PH-DR (Hands) and SAM PH-DR (Feet) same tree CMI 60 dbh.wav,SAM,0.065,,,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 36 BEN PH-DR (GT) tree CMU dbh 90.wav,BEN,0.105724,0.324177,0.327204,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 56 BEN PH-DR (GT alone) 2b+1+1b.wav,BEN,0.101279,0.324177,0.739694,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 7 BEN PH-DR (GT).wav,BEN,0.101587,0.294929,,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 37 BEN PH-DR (GT) tree CYA dbh 70.wav,BEN,0.073698,0.362475,,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 54 BEN PH-DR (GT alone) 2b+1b CAL dbh 50.wav,BEN,0.076402,0.338598,,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 34 BEN PH-DR (GT) db+1.wav,BEN,0.377914,0.510315,,,,,,,,,,,,Traveling		
+20/07/2019,Budongo VE 2019-07-20 Clip 45 BEN PH-DR (GT to GR?) CMI dbh 80.wav,BEN,0.086273,,,,,,,,,,,,,Traveling		
+27/07/2019,Budongo VE 2019-07-27 Clip 1 BEN PH-DR and GER MAC joined in the PH CMI dbh 70 (GT).wav,BEN,0.467996,,,,,,,,,,,,,Traveling		
+27/11/2019,MAC_ph_271119_01.WAV,MAC,0.096414,0.345266,0.320511,0.28216,,,,,,,,,,Resting		
+06/12/2019,chorus_ph_061219_04.WAV,BEN,0.297296,,,,,,,,,,,,,Resting		
+23/12/2019,ALF_ph_231219_01.WAV,ALF,0.173589,0.075722,,,,,,,,,,,,Resting		
+23/12/2019,BEN_ph_231219_05.WAV,BEN,0.310636,,,,,,,,,,,,,Resting		
+23/12/2019,BEN_ph_231219_06.WAV,BEN,0.144304,,,,,,,,,,,,,Resting		
+23/12/2019,BEN_ph_231219_08.WAV,BEN,0.169716,,,,,,,,,,,,,Traveling		
+28/12/2019,BEN_ph_281219_02.WAV,BEN,0.277423,,,,,,,,,,,,,Traveling		
+31/12/2019,ALF_ph_311219_01.WAV,ALF,0.094987,0.967995,0.690034,,,,,,,,,,,Traveling		
+31/12/2019,BEN_ph_311219_01.WAV,BEN,0.284029,,,,,,,,,,,,,Traveling		
+06/01/2020,chorus_ph_060120_05.WAV,ALF,0.116807,,,,,,,,,,,,,Resting		
+17/01/2020,ILA_ph_170120_01.WAV,ILA,0.097014,,,,,,,,,,,,,Resting		
+17/01/2020,ILA_ph_170120_02.WAV,ILA,0.075157,,,,,,,,,,,,,Traveling		
+18/01/2020,Budongo VE 2020-01-18 Clip 4 MAC PH-DR GR.wav,MAC,0.166722,0.089536,,,,,,,,,,,,Resting		
+18/01/2020,DAU_ph_180120_01.WAV,DAU,0.072852,,,,,,,,,,,,,Traveling		
+19/01/2020,Budongo VE 2020-01-19 Clip 3 MAC PH-DR CDU 70 TR.wav,MAC,0.10294,0.249048,0.295537,0.361949,0.04981,0.31546,0.232444,0.31546,,,,,,Traveling		
+19/01/2020,Budongo VE 2020-01-19 Clip 10 BEN PH-DR TR CMU 60.wav,BEN,0.31546,0.302178,,,,,,,,,,,,Traveling		
+23/01/2020,Budongo VE 2020-01-23 Clip 15 ALF PH-DR 2+1 GT CYA 90.wav,ALF,0.075587,0.338316,,,,,,,,,,,,Traveling		
+23/01/2020,Budongo VE 2020-01-23 Clip 2 DAU ph-dr GT CYA 60.wav,DAU,0.125519,,,,,,,,,,,,,Traveling		
+23/01/2020,Budongo VE 2020-01-23 Clip 14 ALF PH-DR db GT CMU 30.wav,ALF,0.079058,,,,,,,,,,,,,Traveling		
+28/01/2020,Budongo VE 2020-01-28 Clip60071.MP4 ALF PH DR GT CZE 30.wav,ALF,0.07663,,,,,,,,,,,,,Traveling		
+28/01/2020,Budongo VE 2020-01-28 Clip60086.MP4 URS and MUG PH DR GR CYA 100 CZE 30.wav,URS,0.030716,,,,,,,,,,,,,Resting		
+29/01/2020,Budongo VE 2020-01-29 Clip80027.MP4 TRS PH DR 10bs GT CAL 40 PC TRS and MUG.wav,TRS,0.193146,0.16017,0.116202,0.16331,0.169591,0.10678,0.169591,0.150748,0.158599,,,,,Traveling		
+03/02/2020,Budongo VE 2020-02-03 Clip00003.MP4 URS PH DR.wav,URS,0.288895,0.089657,,,,,,,,,,,,Resting		
+03/02/2020,Budongo VE 2020-02-03 Clip00004.MP4 URS PH DR GR CYA 70.wav,URS,0.083606,,,,,,,,,,,,,Resting		
+03/02/2020,Budongo VE 2020-02-03 Clip00024.MP4 URS PH DR GR AB 70.wav,URS,0.075947,,,,,,,,,,,,,Resting		
+04/02/2020,Budongo VE 2020-02-04 Clip10014.MP4 BEN PH DR GT PC ARD.wav,BEN,0.070651,0.062339,0.203642,0.365724,0.299229,,,,,,,,,Traveling		
+04/02/2020,Budongo VE 2020-02-04 Clip10082.MP4 ILA PH DR CMI 50 and SAM (not heard?) PH DR CYA 50 GR.wav,ILA,0.064752,,,,,,,,,,,,,Resting		
+04/02/2020,Budongo VE 2020-02-04 Clip10083.MP4 ILA PH DR GT.wav,ILA,0.10294,,,,,,,,,,,,,Traveling		
+05/02/2020,chorus_ph_050220_01.WAV,ALF,0.582855,0.129523,,,,,,,,,,,,Traveling		
+05/02/2020,chorus_ph_050220_01.WAV,ILA,0.051809,0.644379,,,,,,,,,,,,Traveling		
+05/02/2020,Budongo VE 2020-02-05 Clip20016.MP4 FID PH DR CYA 40 GT.wav,FID,0.078035,,,,,,,,,,,,,Traveling		
+05/02/2020,ILA_ph_050220_01.WAV,ILA,0.075999,,,,,,,,,,,,,Traveling		
+06/02/2020,Budongo VE 2020-02-06 Clip30035.MP4 TRS PH DR GR FE 40.wav,TRS,0.091756,0.088697,0.177394,0.085639,0.143751,0.198804,,,,,,,,Resting		
+06/02/2020,Budongo VE 2020-02-06 Clip30040.MP4 TRS PH DR GR FE FID PH DR GR.wav,TRS,0.116222,0.056451,0.119543,0.099619,0.299124,,,,,,,,,Resting		
+08/02/2020,LAF_ph_080220_01.WAV,LAF,0.570199,0.297796,,,,,,,,,,,,Traveling		
+08/02/2020,LAF_ph_080220_02.WAV,LAF,0.059717,0.404447,,,,,,,,,,,,Traveling		
+09/02/2020,Budongo VE 2020-02-09 Clip40036.MP4 DAU PH DR GT CMU 60.wav,DAU,0.089278,,,,,,,,,,,,,Traveling		
+09/02/2020,URS_ph_090220_02.WAV,URS,0.631528,,,,,,,,,,,,,Traveling		
+10/02/2020,Budongo VE 2020-02-10 Clip50014.MP4 ILA 2b+1 PH DR GT CMU 70.wav,ILA,0.053058,0.438428,,,,,,,,,,,,Traveling		
+10/02/2020,Budongo VE 2020-02-10 Clip50016.MP4 ILA PH DR GT .wav,ILA,0.100274,,,,,,,,,,,,,Traveling		
+11/02/2020,Budongo VE 2020-02-11 Clip60049.MP4 TRS PH DR GT? CAL 40.wav,TRS,0.178484,0.144448,0.141127,0.174333,0.195917,0.21086,,,,,,,,Traveling		
+11/02/2020,Budongo VE 2020-02-11 Clip60073.MP4 ALF PH DR CMI 50 GR (during GT).wav,ALF,0.066448,,,,,,,,,,,,,Resting		
+17/02/2020,Budongo VE 2020-02-17 Clip70027.MP4 ILA PH DR GR CAL 60.wav,ILA,0.089657,0.282254,,,,,,,,,,,,Resting		
+17/02/2020,Budongo WS GB 2020-02-17 Clip 32 11_36 ILA PH-DR GR CAL 50.wav,ILA,0.099604,0.256628,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80003.MP4 FID PH DR AND ILA DR RESP GR CAL 60.wav,FID,0.484775,0.501533,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80059.MP4 KEV 2+1b and LAF PH DR 2+1b GT-GR CZE 40.wav,LAF,0.106066,0.682084,,,,,,,,,,,,Traveling		
+18/02/2020,Budongo VE 2020-02-18 Clip80006.MP4 ILA PH DR GR.wav,ILA,0.078314,,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80007.MP4 ILA PH DR GR AND ALF PH DR CAL 70 GR.wav,ALF,0.082824,,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80012.MP4 ILA PH DR GR CAL 60.wav,ILA,0.090955,,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80015.MP4 ILA PH DR CAL 60 GR.wav,ILA,0.101585,,,,,,,,,,,,,Resting		
+18/02/2020,Budongo VE 2020-02-18 Clip80038.MP4 ILA PH DR CZE 20.wav,ILA,0.089657,,,,,,,,,,,,,Traveling		
+21/02/2020,TRS_ph_210220_01.WAV,TRS,0.10295,0.149444,0.073061,0.215863,0.122876,0.212543,0.129518,,,,,,,Traveling		
+22/02/2020,Budongo VE 2020-02-22 Clip20018.MP4 ALF PH DR GT.wav,ALF,0.06509,,,,,,,,,,,,,Traveling		
+22/02/2020,Budongo VE 2020-02-22 Clip20022.MP4 ALF PH DR DB GT.wav,ALF,0.076309,,,,,,,,,,,,,Traveling		
+27/02/2020,Budongo VE 2020-02-27 Clip40014.MP4 BEN PH DR 2B GT AB 40.wav,BEN,0.384845,,,,,,,,,,,,,Traveling		
+27/02/2020,Budongo VE 2020-02-27 Clip40015.MP4 BEN PH DR 2B GT CYA 90.wav,BEN,0.559174,,,,,,,,,,,,,Traveling		
+27/02/2020,Budongo VE 2020-02-27 Clip40017.MP4 BEN PH DR 2B GT CAL 30.wav,BEN,0.311531,,,,,,,,,,,,,Traveling		
+28/02/2020,Budongo VE 2020-02-28 Clip50002.MP4 ILA PH DR 3xDB GT CMI 70.wav,ILA,0.056451,0.635902,0.060602,0.664957,0.05313,,,,,,,,,Traveling		
+28/02/2020,Budongo VE 2020-02-28 Clip50017.MP4 ILA PH DR 5B GR CYA 90.wav,ILA,0.086337,0.936419,0.119543,0.166032,,,,,,,,,,Resting		
+28/02/2020,Budongo VE 2020-02-28 Clip50012.MP4 ILA PH DR 2DB GT CMI 80.wav,ILA,0.086449,0.583529,0.077186,,,,,,,,,,,Traveling		
+28/02/2020,Budongo VE 2020-02-28 Clip50003.MP4 ILA PH DR DB GR AB 80.wav,ILA,0.097636,,,,,,,,,,,,,Resting		
+28/02/2020,Budongo VE 2020-02-28 Clip50005.MP4 ILA PH DR GR DB CAL 60.wav,ILA,0.057499,,,,,,,,,,,,,Resting		
+29/02/2020,Budongo VE 2020-02-29 Clip60003.MP4 ALF PH DR 9B GT CGO 50.wav,ALF,0.18474,0.10294,0.308819,0.05313,0.239086,0.78367,0.242406,0.182635,,,,,,Traveling		
+04/03/2020,Budongo VE 2020-03-04 Clip70006.MP4 TRS PH DR GT CMU 70.wav,TRS,0.132825,0.174333,0.112902,0.15939,0.185956,0.15607,0.169352,0.182635,0.166032,0.25901,0.293876,,,Traveling		
+04/03/2020,Budongo VE 2020-03-04 Clip70011.MP4 ILA PH DR GT CYA 50.wav,ILA,0.174105,0.051868,1.760469,0.051675,,,,,,,,,,Traveling		
+04/03/2020,Budongo VE 2020-03-04 Clip70009.MP4 TRS & ILA PH DR GT CMI 30.wav,TRS,0.15441,0.064752,,,,,,,,,,,,Traveling		
+04/03/2020,Budongo VE 2020-03-04 Clip70009.MP4 TRS & ILA PH DR GT CMI 30.wav,ILA,0.05313,,,,,,,,,,,,,Traveling		
+04/03/2020,Budongo VE 2020-03-04 Clip70017.MP4 MAC PH DR GT CYA 90?.wav,MAC,0.083585,,,,,,,,,,,,,Traveling		
+05/03/2020,Budongo VE 2020-03-05 Clip80017.MP4 LAF PH DR GT CYA 70.wav,LAF,0.258331,0.47401,0.078544,,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip90021.MP4 TRS PH DR GT-GR CMU 80.wav,TRS,0.120782,0.175994,0.043168,0.205879,0.139393,1.269976,0.063092,0.245727,0.249048,0.395156,0.202559,0.116222,0.373738,Resting		
+06/03/2020,Budongo VE 2020-03-06 Clip90025.MP4 TRS PH DR GR-GT CYA 80.wav,TRS,0.10294,0.073054,0.119543,0.063092,0.099619,0.05313,0.378552,0.690692,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip90037.MP4 TRS PH DR GT CYA 80.wav,TRS,0.264416,2.151772,0.351987,0.358629,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip00011.MP4 BEN PH-DR GR CYA 40.wav,BEN,0.157501,0.336727,0.331296,,,,,,,,,,,Resting		
+06/03/2020,Budongo VE 2020-03-06 Clip00021.MP4 ILA PH-DR GT TSI 50 .wav,ILA,0.073054,0.706258,0.097336,,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip00022.MP4 ILA PH-DR 2DB GT.wav,ILA,0.051529,0.691439,0.046883,,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip90020.MP4 TRS PH DR GT CMU 70.wav,TRS,0.31297,0.04981,0.327913,,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip90023.MP4 URS PH DR 2+1b  GT-GR CMU 80.wav,URS,0.069733,0.378552,,,,,,,,,,,,Resting		
+06/03/2020,Budongo VE 2020-03-06 Clip00006.MP4 BEN PH-DR 2+1B GT CYA 40.wav,BEN,0.081655,0.354886,,,,,,,,,,,,Traveling		
+06/03/2020,Budongo VE 2020-03-06 Clip00009.MP4 BEN AND FID PH-DR GR CYA 40.wav,BEN,0.375232,0.242406,,,,,,,,,,,,Resting		
+16/03/2020,Budongo VE 2020-03-16 Clip50022.MP4 ILA and SAM PH-DR GR CYA 60.wav,ILA,0.215841,1.899403,0.126184,,,,,,,,,,,Resting		
+16/03/2020,Budongo VE 2020-03-16 Clip50022.MP4 ILA and SAM PH-DR GR CYA 60.wav,SAM,0.129505,1.006152,,,,,,,,,,,,Resting		
+16/03/2020,Budongo VE 2020-03-16 Clip50039.MP4 ALF PH-DR db GT.wav,ALF,0.098987,,,,,,,,,,,,,Traveling		

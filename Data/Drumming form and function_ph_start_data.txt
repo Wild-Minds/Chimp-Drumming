@@ -1,0 +1,22 @@
+individual,start_phase,percentage
+ALF,before climax,0.05
+ALF,during climax,0.95
+ALF,after climax,0
+BEN,before climax,0.413793103
+BEN,during climax,0.482758621
+BEN,after climax,0.103448276
+DAU,before climax,0.4
+DAU,during climax,0.6
+DAU,after climax,0
+ILA,before climax,0.789473684
+ILA,during climax,0.210526316
+ILA,after climax,0
+MAC,before climax,0.2
+MAC,during climax,0.7
+MAC,after climax,0.1
+TRS,before climax,0.727272727
+TRS,during climax,0.272727273
+TRS,after climax,0
+URS,before climax,0.571428571
+URS,during climax,0.428571429
+URS,after climax,0
