@@ -1,0 +1,34 @@
+acronym,scientific_name,food_Waibira,use,density
+AGU,Albizia gummifera,n,n,0.5424
+AZ,Albizia zygia,n,n,0.5146
+AB,Alstonia boonei,y,n,0.3747
+BSA,Bersama abyssinica,n,y,0.6715
+CDU,Celtis durandii,y,n,0.5295
+CMI,Celtis mildbraedii,y,y,0.6453
+CWI,Celtis wightii,y,n,0.611
+CZE ,Celtis zenkeri,y,y,0.6463
+CMU,Chrysophyllum muerense,y,y,
+CPR,Chrysophyllum perpulchrum,n,n,0.7617
+CAL,Chrysophylum albidum,y,y,0.6438
+CP,Cleistopholis patens,y,n,0.3536
+COM,Cordia millenii,y,n,0.4045
+CMG,Croton megalocarpus,n,n,0.6257
+CYA,Cynometra alexandrii,y,y,0.8219
+DD,Desplatsia dewevrei,y,n,
+FAA,Fagaropsis angolensis,n,n,0.5706
+FE,Ficus exasperata,y,y,0.344
+FSS,Ficus saussureana,y,n,
+FSU,Ficus sur,y,y,0.288
+FUE,Funtumia elastica,n,n,0.51
+HG,Holoptelea grandis,n,n,0.6088
+KA,Khaya anthoteca,y,n,0.52
+KIA,Kigelia africana,y,n,0.6613
+LM,Lasiodiscus mildbraedii,y,n,
+ME,Maesopsis eminii,y,n,0.4524
+MB,Manilkara butugi,n,n,
+MDI,Margaritaria discoideus,n,n,0.7697
+MIE,Mildbraediodendron excelsum,y,n,
+RH,Ricinodendron heudelotii,n,n,0.2204
+TAF,Tapura fischeri,n,n,
+TRD,Trichilia dregeana,n,n,0.482
+UNK1,unknown,n,n,
